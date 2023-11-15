@@ -1,0 +1,174 @@
+product_name,number_of_reviews,processed_reviews,next_index
+nokia 8210,3,3,3
+ulefone power armor x11 pro,7,7,7
+tcl 20 pro,11,11,11
+blackview bv5200 pro,13,13,13
+ulefone armor 15,15,15,15
+ulefone power armor 18,15,15,15
+nokia x10,16,16,16
+htc desire 22 pro,17,17,17
+ulefone armor 17 pro,20,19,20
+oukitel wp10,20,20,20
+realme gt neo 3t,22,21,22
+motorola edge 30 neo,27,27,27
+ulefone armor x9 pro,31,31,31
+maxcom mm 760,35,35,35
+maxcom mm 817,37,34,37
+xiaomi 12,40,37,40
+tcl 30+,44,41,44
+oukitel wp21,50,50,50
+zte axon 30,52,51,52
+blackview bl5000,55,55,55
+motorola razr 2022,55,53,55
+ulefone power armor 14 pro,56,55,56
+huawei nova 10 se,58,56,58
+huawei nova y90,59,58,59
+huawei nova y70,60,56,60
+nokia x30,65,63,65
+oppo reno8 t,66,64,66
+asus rog phone 6d,74,74,74
+realme c30,74,73,74
+motorola moto e22,81,80,81
+blackview bl6000 pro,83,81,83
+blackview bv7100,84,83,84
+huawei mate 50 pro,84,83,84
+blackview bv7200,85,85,85
+xiaomi 13 pro,91,89,91
+oppo reno5,95,93,95
+motorola edge 30 ultra,98,96,98
+nokia g11,98,95,98
+nokia x10 dual sim,99,97,99
+motorola thinkphone,100,100,100
+xiaomi poco x5 pro,112,110,112
+realme narzo 50,133,132,133
+oukitel wp15,142,140,142
+maxcom mm 920,148,146,148
+motorola edge 30 pro,148,144,148
+oukitel wp17,151,148,151
+blackview bv4900 pro,153,149,153
+realme narzo 30a,155,150,155
+oneplus 10t,158,154,158
+oppo find n2 flip,160,155,160
+oppo a57s,171,158,171
+vivo y01,172,166,172
+blackview bv6300 pro,182,178,182
+cat s42,184,175,184
+motorola moto g42,195,193,195
+oneplus 9,197,192,197
+nokia 2660,197,193,197
+oppo a16s,210,207,210
+motorola edge 20 pro,225,219,225
+motorola moto g82,226,223,226
+tcl 30,230,227,230
+vivo y72,231,223,231
+nokia c21 plus,239,237,239
+blackview bv6600,276,272,276
+nokia g21,278,277,278
+oppo a76,278,271,278
+asus rog phone 6,282,280,282
+sony xperia 5 iv,299,296,299
+oppo find x5,312,307,312
+nokia 230 dual sim,315,309,315
+nokia 6310,317,312,317
+xiaomi 12t,340,330,340
+xiaomi 12 lite,360,354,360
+microsoft surface duo 2,361,354,361
+motorola moto g73,366,359,366
+cat s62 pro,369,362,369
+motorola edge 20 lite,371,356,371
+oneplus nord 2t,381,368,381
+realme 10,399,396,399
+motorola moto g31,410,404,410
+nokia xr20,410,403,410
+nokia g60,415,406,415
+realme 9 pro,436,423,436
+motorola moto e13,440,436,440
+oneplus nord ce 2 lite,441,435,441
+motorola moto g71,455,444,455
+motorola moto g52,459,448,459
+realme 9i,469,461,469
+motorola edge 20,474,458,474
+oukitel wp18,479,473,479
+oppo reno7,480,468,480
+apple iphone 12,506,493,506
+alcatel 1,506,496,506
+motorola moto e40,513,498,513
+motorola moto g60s,522,512,522
+motorola edge 30 fusion,543,535,543
+sony xperia 1 iv,554,549,554
+vivo y16,568,560,568
+oneplus 10 pro,581,569,581
+xiaomi poco x5,603,589,603
+realme 9,665,659,665
+xiaomi 12 pro,676,662,676
+sony xperia 10 iv,726,716,726
+vivo y22s,756,751,756
+xiaomi 12t pro,770,752,770
+oneplus 11,793,778,793
+xiaomi redmi 9at,812,786,812
+motorola moto g22,819,800,819
+oppo find x3 lite,826,804,826
+huawei p smart 2021,863,841,863
+nothing phone,865,852,865
+vivo y33s,927,903,927
+realme c35,1056,1045,1056
+xiaomi poco m4 pro,1138,1108,1138
+sony xperia 5,1139,1117,1139
+xiaomi poco f4 gt,1276,1264,1276
+xiaomi poco x4 pro,1296,1266,1296
+xiaomi 11t,1352,1321,1352
+realme c55,1383,1362,1383
+oneplus 8 pro,1391,1357,1391
+motorola moto e20,1421,1389,1421
+realme c33,1593,1574,1593
+samsung galaxy a04s,2026,1994,2026
+realme 8,2080,2018,2080
+samsung galaxy a33,2385,2342,2385
+xiaomi redmi note 11s,2417,2357,2417
+apple iphone 14,2488,2424,2488
+xiaomi poco c40,2573,2542,2573
+xiaomi redmi 10,2592,2523,2592
+xiaomi redmi note 10,2948,2899,2948
+oppo a17,3283,3256,3283
+xiaomi mi 11 lite,3419,3317,3419
+xiaomi poco m5,4003,3969,4003
+xiaomi redmi note 10 pro,4061,3953,4061
+google pixel 7,4147,4075,4147
+samsung galaxy a34,4621,4534,4621
+xiaomi redmi note 8 2021,4682,4583,4682
+xiaomi redmi note 11 pro,4905,4798,4905
+google pixel 7 pro,5077,4992,5077
+apple iphone 14 pro max,5088,5017,5088
+samsung galaxy a03s,5141,5052,5141
+google pixel 6a,5236,5151,5236
+apple iphone 11,5478,5402,5478
+google pixel 6 pro,5599,5532,5599
+apple iphone 13 mini,5833,5712,5833
+xiaomi redmi note 10s,6086,5934,6086
+xiaomi redmi note 11,6133,6000,6133
+xiaomi redmi 10c,6189,6104,6189
+xiaomi redmi 9c,6202,6082,6202
+samsung galaxy a22,6459,6311,6459
+google pixel 6,7786,7675,7786
+samsung galaxy a14,7810,7701,7810
+apple iphone 14 plus,8433,8266,8433
+samsung galaxy a13,8834,8614,8834
+samsung galaxy s23,9456,9307,9456
+samsung galaxy z flip 4,10209,10029,10209
+apple iphone 14 pro,10612,10408,10612
+apple iphone 13 pro,10681,10475,10681
+samsung galaxy xcover 5,11297,11156,11297
+samsung galaxy a12,13080,12811,13080
+xiaomi redmi 9a,14447,14152,14447
+apple iphone 13,15056,14660,15056
+samsung galaxy s23+,15081,14847,15081
+samsung galaxy z fold 4,17313,17024,17313
+samsung galaxy z flip3,19390,1350,1361
+samsung galaxy a52s,21135,0,0
+samsung galaxy s22+,22932,0,0
+samsung galaxy a53,25548,0,0
+apple iphone se,37756,0,0
+samsung galaxy s23 ultra,47921,0,0
+samsung galaxy s20 fe,47948,0,0
+samsung galaxy s21 fe,58844,0,0
+samsung galaxy s22 ultra,76767,0,0
